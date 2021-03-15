@@ -1,2 +1,2 @@
-# SKYNET-Battlerite-Server-Emulator
+# [SKYNET] Battlerite Server Emulator
 Not finished
