@@ -1,0 +1,12 @@
+D:\Instaladores\Programación\Projects\[SKYNET] Battlerite Server Emulator\Battlerite Client\bin\Debug\Battlerite Client.exe.config
+D:\Instaladores\Programación\Projects\[SKYNET] Battlerite Server Emulator\Battlerite Client\bin\Debug\Battlerite Client.exe
+D:\Instaladores\Programación\Projects\[SKYNET] Battlerite Server Emulator\Battlerite Client\obj\Debug\SKYNET.LoginBox.resources
+D:\Instaladores\Programación\Projects\[SKYNET] Battlerite Server Emulator\Battlerite Client\obj\Debug\HeroItems.HeroComboBox.resources
+D:\Instaladores\Programación\Projects\[SKYNET] Battlerite Server Emulator\Battlerite Client\obj\Debug\SKYNET.Properties.Resources.resources
+D:\Instaladores\Programación\Projects\[SKYNET] Battlerite Server Emulator\Battlerite Client\obj\Debug\Battlerite Client.csproj.GenerateResource.cache
+D:\Instaladores\Programación\Projects\[SKYNET] Battlerite Server Emulator\Battlerite Client\obj\Debug\Battlerite Client.csproj.CoreCompileInputs.cache
+D:\Instaladores\Programación\Projects\[SKYNET] Battlerite Server Emulator\Battlerite Client\obj\Debug\Battlerite Client.exe
+D:\Instaladores\Programación\Projects\[SKYNET] Battlerite Server Emulator\Battlerite Client\obj\Debug\Battlerite Client.pdb
+D:\Instaladores\Programación\Projects\[SKYNET] Battlerite Server Emulator\Battlerite Client\obj\Debug\Battlerite Client.csprojAssemblyReference.cache
+D:\Instaladores\Programación\Projects\[SKYNET] Battlerite Server Emulator\Battlerite Client\bin\Debug\Battlerite Client.pdb
+D:\Instaladores\Programación\Projects\[SKYNET] Battlerite Server Emulator\Battlerite Client\obj\Debug\SKYNET.frmMain.resources
